@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋 Im Mateo Carrizo Vega
+## Im a programming student since 2020
 
-<!--
-**Amarateus/Amarateus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I started learning the basics in Python, SQLite & MySQL, HTML5, CSS and JavaScripts.
+### Now Im more specialized in Python and Framework Web Django
 
-Here are some ideas to get you started:
+## Skills:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black)</br>
+![Django](https://img.shields.io/badge/Django-success?style=for-the-badge&logo=django&logoColor=white&labelColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me at:
+[![Linkedin](https://img.shields.io/badge/Linkedin-Mateo_Carrizo_Vega-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/mateocarrizovega/)
+
+# Open to work 
+## I would like to enter the IT world of work to continue learning and knowing the opportunities it offers and to see in which areas my skills can stand out more.
