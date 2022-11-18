@@ -1,5 +1,5 @@
 # Hi there 👋 Im Mateo Carrizo Vega
-## Jr. Python Programmer
+## Jr. Python Developer
 ## Im a programming student since 2020
 
 ### I started learning the basics in Python, SQLite & MySQL, HTML5, CSS and JavaScripts.
