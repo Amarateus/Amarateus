@@ -3,7 +3,6 @@
 ## Soy estudiante de programacion desde principios del 2020
 
 ### Tengo conocimiento basicos-intermedios en: DJANGO & tkinter, HTML, CSS, JavaScript, MySQL, SQL Server 2019, MongoDB, Scrum
-### Python es el lenguaje en el que más me desarrollé, y en el que actualmente me enfoco en seguir aprendiendo
 
 ## Skills:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black)</br>
