@@ -2,7 +2,7 @@
 #### Soy estudiante de programación desde principios del 2021
 ![Soy estudiante de programación desde el 2021](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
-Desde principios del 2021 comencé mis estudios en programación de forma **autodidacta**. La curiosidad me llevo de un lenguaje a otro y me fui adentrando más y más en mundo IT. Me parece importante destacar que siempre **trabaje** (en un rubro completamente distinto), a la par de mis estudios, y pese a que, al disponer de menos tiempo para dedicarle a mis aprendizajes, eso nunca me desanimo y la perseverancia me llevo a donde estoy ahora. Listo y con ganas de comenzar a trabajar en un 1er empleo para poder **desarrollarme y seguir aprendiendo**
+Desde principios del 2021 comencé mis estudios en programación de forma **autodidacta**. La curiosidad me llevo de un lenguaje a otro y me fui adentrando más y más en mundo IT. Me parece importante destacar que siempre **trabaje** (en un rubro completamente distinto), a la par de mis estudios, y pese a que, al disponer de menos tiempo para dedicarle a mis aprendizajes, eso nunca me desanimo y la perseverancia me llevo a donde estoy ahora. Listo y con ganas de comenzar a trabajar en un 1er empleo para poder **desarrollarme** profesionalmente
 
 Habilidades: **PYTHON** (Django, Tkinter, SQLite, APIs, POO, VirtualEnv) / **SQL:** MySQL, SQL SERVER, SQLite / **NoSQL:** MongoDB / **JavaScript** / **HTML** / **CSS** / **SCRUM**
 
