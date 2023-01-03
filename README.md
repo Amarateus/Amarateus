@@ -4,10 +4,10 @@
 
 Desde principios del 2021 comencé mis estudios en programación de forma **autodidacta**. La curiosidad me llevo de un lenguaje a otro y me fui adentrando más y más en mundo IT. Me parece importante destacar que siempre **trabaje** (en un rubro completamente distinto), a la par de mis estudios, y pese a que, al disponer de menos tiempo para dedicarle a mis aprendizajes, eso nunca me desanimo y la perseverancia me llevo a donde estoy ahora. Listo y con ganas de comenzar a trabajar en un 1er empleo para poder **desarrollarme** profesionalmente
 
-Habilidades: **PYTHON** (Django, Tkinter, SQLite, APIs, POO, VirtualEnv) / **SQL:** MySQL, SQL SERVER, SQLite / **NoSQL:** MongoDB / **JavaScript** / **HTML** / **CSS** / **SCRUM**
+Habilidades: **PYTHON** (Django, Tkinter, SQLite, APIs, POO, VirtualEnv) / **SQL:** MySQL, SQL SERVER, SQLite / **NoSQL:** MongoDB / **JavaScript** / **HTML** / **CSS** / **SCRUM** / **Git & Github**
 
 - 🔭 Estoy trabajando en Votri Fit & Health (https://www.instagram.com/votri.fit/) 
-- 🌱 Estoy aprendiendo siempre algo nuevo 
+- 🌱 Estoy aprendiendo: **Javascript, React JS, Node.js**
 - 🤔 Necesito ayuda con mi introducción al mundo laboral IT 
 - 💬 Pregúntame acerca de música y entrenamiento  
 - 📫 Cómo contactarme: mateocv759@gmail.com 
