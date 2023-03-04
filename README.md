@@ -7,7 +7,7 @@ Desde principios del 2021 comencé mis estudios en programación de forma **auto
 Habilidades: **PYTHON** (Django, Tkinter, SQLite, APIs, POO, VirtualEnv) / **SQL:** MySQL, SQL SERVER, SQLite / **NoSQL:** MongoDB / **JavaScript** / **HTML** / **CSS** / **SCRUM** / **Git & Github**
 
 - 🔭 Estoy trabajando en Votri Fit & Health (https://www.instagram.com/votri.fit/) 
-- Y DESARROLLANDO SU SITIO WEB: https://amarateus.github.io/votri_fit_-_health/
+- Y DESARROLLANDO SU SITIO WEB como proyecto de la Carrera en curso: https://amarateus.github.io/votri_fit_-_health/
 
 - 🌱 Estoy aprendiendo: **Javascript, React JS, Node.js**
 - 🤔 Necesito ayuda con mi introducción al mundo laboral IT 
